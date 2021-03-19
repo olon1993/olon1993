@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Scott.
+- 👀 I’m interested in game development and software development! I want to be a professional video game developer! I'm using Unity right now.
+- 🌱 I’m currently learning Hybris and many related technologies!
+- 💞️ I’m looking to collaborate on video games and something new and cool!
+- 📫 Send me an email at sebateyjr@yahoo.com!
